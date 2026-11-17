@@ -57,3 +57,4 @@ This project uses a small synthetic grammar rather than natural-language dataset
 Completed as part of COMP-672 Natural Language Processing coursework. The lab structure and starter materials were provided by the course instructor.
 
 Original course repository: https://github.com/glossner/COMP-672-Labs
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GreeshmaLekkala/Lab03-Tiny-Transformer/blob/main/COMP672_Lab03_Greeshma.ipynb)
